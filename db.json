@@ -19,7 +19,7 @@
         {"id":17,"model_name":"Tundra","manufacturer":"Toyota","year":2010,"cost":11127},
         {"id":18,"model_name":"Mountaineer","manufacturer":"Mercury","year":2010,"cost":7735},
         {"id":19,"model_name":"Bonneville","manufacturer":"Pontiac","year":2002,"cost":13311},
-        {"id":20,"model_name":"X3","manufacturer":"BMW","year":2007,"cost":8628},
+        {"id":20,"model_name":"X3","manufacturer":"BMW","year":2002,"cost":8628},
         {"id":21,"model_name":"RL","manufacturer":"Acura","year":2010,"cost":11381},
         {"id":22,"model_name":"Sonata","manufacturer":"Hyundai","year":2009,"cost":5519},
         {"id":23,"model_name":"Aveo","manufacturer":"Chevrolet","year":2006,"cost":13597},
@@ -49,6 +49,6 @@
         {"id":47,"model_name":"Continental Flying Spur","manufacturer":"Bentley","year":2010,"cost":7201},
         {"id":48,"model_name":"M-Class","manufacturer":"Mercedes-Benz","year":2012,"cost":6529},
         {"id":49,"model_name":"Catera","manufacturer":"Cadillac","year":1999,"cost":10440},
-        {"id":50,"model_name":"S70","manufacturer":"Volvo","year":1999,"cost":6948},
+        {"id":50,"model_name":"S70","manufacturer":"Volvo","year":1999,"cost":6948}
     ]
 }
