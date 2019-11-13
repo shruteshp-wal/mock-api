@@ -29,26 +29,6 @@
         {"id":27,"model_name":"Century","manufacturer":"Buick","year":1999,"cost":8863},
         {"id":28,"model_name":"Mustang","manufacturer":"Ford","year":1983,"cost":11070},
         {"id":29,"model_name":"Continental Mark VII","manufacturer":"Lincoln","year":1988,"cost":6566},
-        {"id":30,"model_name":"Prowler","manufacturer":"Chrysler","year":2001,"cost":5893},
-        {"id":31,"model_name":"Genesis","manufacturer":"Hyundai","year":2010,"cost":11578},
-        {"id":32,"model_name":"Tribeca","manufacturer":"Subaru","year":2009,"cost":5932},
-        {"id":33,"model_name":"CLS-Class","manufacturer":"Mercedes-Benz","year":2008,"cost":14879},
-        {"id":34,"model_name":"530","manufacturer":"BMW","year":2003,"cost":12783},
-        {"id":35,"model_name":"Sportvan G30","manufacturer":"Chevrolet","year":1993,"cost":11000},
-        {"id":36,"model_name":"Crown Victoria","manufacturer":"Ford","year":2008,"cost":9172},
-        {"id":37,"model_name":"Highlander","manufacturer":"Toyota","year":2003,"cost":7135},
-        {"id":38,"model_name":"Elise","manufacturer":"Lotus","year":2010,"cost":9139},
-        {"id":39,"model_name":"350Z","manufacturer":"Nissan","year":2009,"cost":12662},
-        {"id":40,"model_name":"SLX","manufacturer":"Acura","year":1999,"cost":5793},
-        {"id":41,"model_name":"Cherokee","manufacturer":"Jeep","year":1993,"cost":14485},
-        {"id":42,"model_name":"Impulse","manufacturer":"Isuzu","year":1992,"cost":9072},
-        {"id":43,"model_name":"Forenza","manufacturer":"Suzuki","year":2007,"cost":11261},
-        {"id":44,"model_name":"Ram 2500","manufacturer":"Dodge","year":1999,"cost":5372},
-        {"id":45,"model_name":"Coupe Quattro","manufacturer":"Audi","year":1991,"cost":11817},
-        {"id":46,"model_name":"Familia","manufacturer":"Mazda","year":1992,"cost":5511},
-        {"id":47,"model_name":"Continental Flying Spur","manufacturer":"Bentley","year":2010,"cost":7201},
-        {"id":48,"model_name":"M-Class","manufacturer":"Mercedes-Benz","year":2012,"cost":6529},
-        {"id":49,"model_name":"Catera","manufacturer":"Cadillac","year":1999,"cost":10440},
-        {"id":50,"model_name":"S70","manufacturer":"Volvo","year":1999,"cost":6948}
+        {"id":30,"model_name":"Prowler","manufacturer":"Chrysler","year":2001,"cost":5893}
     ]
 }
